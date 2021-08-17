@@ -1,5 +1,5 @@
 # Bitcoin-and-Ethereum-Sentiment-Analysis
-The algorithm uses the News API to extract articles about Bitcoin and Ethereum to develop sentiment analysis. In conclusion, there has been more positive news about Ethereum in the past. Below I have attached two wordclouds illustrating common words within the articles.
+The algorithm uses the News API to extract articles about Bitcoin and Ethereum to form a sentiment analysis. In conclusion, there has been more positive news about Ethereum in the past. Below I have attached two wordclouds illustrating common words within the articles.
 
 ## Sentiment Analysis
 <img width="336" alt="Screen Shot 2021-08-16 at 9 32 59 PM" src="https://user-images.githubusercontent.com/83780964/129649590-c7813fe0-00cb-4be2-80f3-75a11ddc8f5b.png">
